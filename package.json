@@ -1,0 +1,26 @@
+{
+  "name": "rocket-regenerative-cooling",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Advanced regenerative cooling simulator for rocket engines (SpaceX Raptor-style)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.92.0",
+    "@react-three/fiber": "^8.15.0",
+    "lodash": "^4.17.21",
+    "mathjs": "^12.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^3.8.1",
+    "three": "^0.160.0",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8"
+  }
+}
