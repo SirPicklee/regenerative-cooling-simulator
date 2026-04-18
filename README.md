@@ -54,7 +54,19 @@ This simulator provides detailed analysis of rocket engine cooling systems using
 - **Styling:** CSS3, Custom themes
 
 ## 📸 Screenshots
+<img width="1053" height="926" alt="Image" src="https://github.com/user-attachments/assets/1de5ec74-cd5e-4376-931f-5e3f9f63103a" />
 
+<img width="887" height="974" alt="Image" src="https://github.com/user-attachments/assets/28538c65-c607-44af-8a6a-b355e82c590e" />
+
+<img width="1024" height="919" alt="Image" src="https://github.com/user-attachments/assets/7c6bb853-114a-4ae2-b47e-41376f21651f" />
+
+<img width="955" height="793" alt="Image" src="https://github.com/user-attachments/assets/54899691-b7a0-406d-aa89-779c5e623dc3" />
+
+<img width="1031" height="952" alt="Image" src="https://github.com/user-attachments/assets/0f9b4e78-6bda-4901-8a47-c167ddd63615" />
+
+<img width="358" height="694" alt="Image" src="https://github.com/user-attachments/assets/f20dc2ba-89f7-469c-8100-cdb996073b36" />
+
+<img width="389" height="713" alt="Image" src="https://github.com/user-attachments/assets/a7195ed7-6434-4341-a68e-72349f708bf3" />
 
 
 ## 🚀 Installation
